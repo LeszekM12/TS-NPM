@@ -10,7 +10,9 @@ export const ErrorText = styled.p`
 export const ErrorBox = styled.div`
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
+    margin: 0;
+    padding: 20px;
 `;
 
 export const ErrorText = styled.p`
@@ -20,8 +22,3 @@ export const ErrorText = styled.p`
     padding: 20px;
 `;
 
-<PacmanLoader
-    color="#ffffff"
-    margin={0}
-    size={50}
-/>
