@@ -12,3 +12,16 @@ export const ErrorBox = styled.div`
     flex-direction: column;
     align-items: center; 
 `;
+
+export const ErrorText = styled.p`
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+`;
+
+<PacmanLoader
+    color="#ffffff"
+    margin={0}
+    size={50}
+/>
