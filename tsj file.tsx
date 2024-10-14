@@ -2,7 +2,7 @@ export function tsj() {
     return (
        <div>
            <CustomElementRegistry>
-               <p>Try</p>
+               <p>Try catch</p>
            </CustomElementRegistry>
        </div>
     );
